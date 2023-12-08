@@ -75,7 +75,12 @@ span{
 }
 article {
   flex-basis: 73%;
+  
 
+}
+.text {
+flex-basis: 30%; 
+margin-top: 160px;
 }
 .street {
  font-size: 18px; 
@@ -88,6 +93,12 @@ article {
 figure {
   margin: 3rem 0 0 0;
   flex-basis: 25%;
+  background-color: #59331d;
+  border-radius: 10px;
+}
+.photo {
+  margin: 3rem 0 0 0;
+  flex-basis: 50%;
   background-color: #59331d;
   border-radius: 10px;
 }
