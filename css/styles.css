@@ -78,6 +78,15 @@ article {
   
 
 }
+.Beanscoffeecards{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+.Beanscoffeecards div {
+margin: 15px;
+}
 .text {
 flex-basis: 30%; 
 margin-top: 160px;
